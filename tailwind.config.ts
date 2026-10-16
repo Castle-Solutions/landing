@@ -11,14 +11,6 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        castle: {
-          50: "#f0f7ff",
-          100: "#e0effe",
-          500: "#0284c7",
-          600: "#0369a1",
-          900: "#0c4a6e",
-          950: "#082f49",
-        },
       },
     },
   },
