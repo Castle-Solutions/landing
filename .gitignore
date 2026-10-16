@@ -1,0 +1,23 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env*.local
+
+# Dependencies
+node_modules/
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Scratch and memory
+.scratch/
+.remember/
